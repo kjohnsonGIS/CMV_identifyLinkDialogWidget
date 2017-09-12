@@ -1,2 +1,2 @@
 # CMV_identifyLinkDialogWidget
-Opens runs ajax  and puts results in Dialog from CMV identify panel attribute link
+From CMV identify panel attribute link, runs ajax by attribute and puts results in Dialog
